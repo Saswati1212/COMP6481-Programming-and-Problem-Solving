@@ -1,1 +1,1 @@
-# Programming-and-Problem-Solving-PPS---COMP6481-
+# COMP6481 - Programming and Problem Solving (PPS)
